@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[12673,["/yuanlixin-demo/_next/static/chunks/192ln5fack8of.js","/yuanlixin-demo/_next/static/chunks/1agaicrwdkd0q.js","/yuanlixin-demo/_next/static/chunks/3p7iac7l6g7an.js"],"PageHero"]
+3:I[55014,["/yuanlixin-demo/_next/static/chunks/192ln5fack8of.js","/yuanlixin-demo/_next/static/chunks/1agaicrwdkd0q.js","/yuanlixin-demo/_next/static/chunks/3p7iac7l6g7an.js"],"ProjectBrowser"]
+4:I[12673,["/yuanlixin-demo/_next/static/chunks/192ln5fack8of.js","/yuanlixin-demo/_next/static/chunks/1agaicrwdkd0q.js","/yuanlixin-demo/_next/static/chunks/3p7iac7l6g7an.js"],"CTA"]
+5:I[97367,["/yuanlixin-demo/_next/static/chunks/192ln5fack8of.js","/yuanlixin-demo/_next/static/chunks/1agaicrwdkd0q.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:I[97367,["/yuanlixin-demo/_next/static/chunks/192ln5fack8of.js","/yuanlixin-demo/_next/static/chunks/1agaicrwdkd0q.js"],"ViewportBoundary"]
+b:I[97367,["/yuanlixin-demo/_next/static/chunks/192ln5fack8of.js","/yuanlixin-demo/_next/static/chunks/1agaicrwdkd0q.js"],"MetadataBoundary"]
+c:I[27201,["/yuanlixin-demo/_next/static/chunks/192ln5fack8of.js","/yuanlixin-demo/_next/static/chunks/1agaicrwdkd0q.js"],"IconMark"]
+e:I[39756,["/yuanlixin-demo/_next/static/chunks/192ln5fack8of.js","/yuanlixin-demo/_next/static/chunks/1agaicrwdkd0q.js"],"default"]
+f:I[37457,["/yuanlixin-demo/_next/static/chunks/192ln5fack8of.js","/yuanlixin-demo/_next/static/chunks/1agaicrwdkd0q.js"],"default"]
+12:I[38209,["/yuanlixin-demo/_next/static/chunks/192ln5fack8of.js","/yuanlixin-demo/_next/static/chunks/1agaicrwdkd0q.js"],"SiteFrame"]
+13:I[12673,["/yuanlixin-demo/_next/static/chunks/192ln5fack8of.js","/yuanlixin-demo/_next/static/chunks/1agaicrwdkd0q.js","/yuanlixin-demo/_next/static/chunks/3p7iac7l6g7an.js"],"Button"]
+:HL["/yuanlixin-demo/_next/static/chunks/2u_tt7imb9uwo.css","style"]
+9:X
+11:X
+11:C
+0:{"buildId":"myzq6YUZ7CAm_RIVVBXsx","data":[{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{"en":"SELECTED PROJECTS","title":"工程實績","subtitle":"以專業塗裝，參與每一座建築的完成","text":"在公共空間、城市地景與生活場域之間，探索金屬塗裝的多元可能。"}],["$","section",null,{"className":"section container","children":["$","$L3",null,{}]}],["$","$L4",null,{}]],[["$","script","script-0",{"src":"/yuanlixin-demo/_next/static/chunks/3p7iac7l6g7an.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"工程實績｜元利鑫國際有限公司"}],["$","meta","1",{"name":"description","content":"元利鑫建築金屬塗裝網站展示：KYNAR-500 氟碳烤漆、粉體與液體烤漆、高耐候木紋烤漆。"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/yuanlixin-demo/favicon.ico?favicon.16ca0mv41po3r.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Lc","4",{}]]}]}]}],null]}],"isPartial":"$@d","staleTime":"$9","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$Lf",null,{}]}]]}],"isPartial":"$@10","staleTime":"$9","varyParams":"$11"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yuanlixin-demo/_next/static/chunks/2u_tt7imb9uwo.css","precedence":"next"}],["$","script","script-0",{"src":"/yuanlixin-demo/_next/static/chunks/192ln5fack8of.js","async":true}],["$","script","script-1",{"src":"/yuanlixin-demo/_next/static/chunks/1agaicrwdkd0q.js","async":true}]],["$","html",null,{"lang":"zh-Hant","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"跳至主要內容"}],["$","$L12",null,{"children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$Lf",null,{}],"notFound":[["$","section",null,{"className":"section container empty-state","children":[["$","span",null,{"className":"eyebrow","children":"404 / PAGE NOT FOUND"}],["$","h1",null,{"children":"找不到這個頁面"}],["$","p",null,{"children":"請回到首頁，或從導覽選單繼續探索。"}],["$","$L13",null,{"href":"/","children":"返回首頁"}]]}],[]]}]}]]}]}]]}],"isPartial":"$@14","staleTime":"$9","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+7:null
+9:300
+16:true
+9:C
+15:0
+d:"$undefined"
+10:"$undefined"
+14:"$undefined"
+8:"$undefined"
